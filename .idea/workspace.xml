@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4971d8c7-506d-4a27-8e08-7ab2ee766138" name="Changes" comment="" />
+    <list default="true" id="4971d8c7-506d-4a27-8e08-7ab2ee766138" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/ImenikTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/ImenikTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpr-tut3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rpr-tut3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NepostojanjeBrojaUImeniku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NepostojanjeBrojaUImeniku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NepostojanjeImenaUImeniku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NepostojanjeImenaUImeniku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NepostojanjeUImeniku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NepostojanjeUImeniku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GrDvSS0ShYVTpSWY4fXUy79KY9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -15,11 +37,51 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "C:/Users/ILHAN/IdeaProjects/Rpr-tutorijali/rpr-t3"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ImenikTest.dodaj" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr-tut3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ImenikTest" />
+      <option name="METHOD_NAME" value="dodaj" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ImenikTest.dodaj" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +90,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667138041205</updated>
+      <workItem from="1667138042560" duration="2815000" />
+      <workItem from="1667219872887" duration="4745000" />
+      <workItem from="1667632750442" duration="9743000" />
+      <workItem from="1667731549272" duration="519000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

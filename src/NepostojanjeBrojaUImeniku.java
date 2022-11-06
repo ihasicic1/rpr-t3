@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class NepostojanjeBrojaUImeniku {
+public class NepostojanjeBrojaUImeniku extends NepostojanjeUImeniku {
+    public NepostojanjeBrojaUImeniku(String message) {
+        super(message);
+    }
 }
